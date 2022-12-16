@@ -15,7 +15,7 @@
 
 ## Demo
 
-[Live Demo](https://vuesheet.netlify.app/)
+[Live Demo](https://janmie-cjm.github.io/vue-google-sheet/)
 
 ## Examples 
 
